@@ -1,0 +1,3 @@
+D:/Lekcje/JiPP2/GitHub/Lab2/Zad3/cmake-build-debug/CMakeFiles/Zad3.dir
+D:/Lekcje/JiPP2/GitHub/Lab2/Zad3/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Lekcje/JiPP2/GitHub/Lab2/Zad3/cmake-build-debug/CMakeFiles/rebuild_cache.dir
