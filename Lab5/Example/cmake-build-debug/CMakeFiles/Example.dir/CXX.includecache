@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/Point.h
+iostream
+-
+
+D:/Lekcje/JiPP2/GitHub/JiPP2/Lab5/Example/src/Point.cpp
+Point.h
+D:/Lekcje/JiPP2/GitHub/JiPP2/Lab5/Example/src/Point.h
+
+D:/Lekcje/JiPP2/GitHub/JiPP2/Lab5/Example/src/main.cpp
+iostream
+-
+Point.h
+D:/Lekcje/JiPP2/GitHub/JiPP2/Lab5/Example/src/Point.h
+
