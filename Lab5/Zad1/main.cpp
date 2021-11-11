@@ -95,6 +95,10 @@ int main(){
     p2.setNumerRejestracyjny("SSSSEE2221");
     p2.wypiszDane();
 
+    Pojazd p3 = p2;
+    p3.setNumerRejestracyjny("S42241");
+    p3.wypiszDane();
+
     return 0;
 }
 
