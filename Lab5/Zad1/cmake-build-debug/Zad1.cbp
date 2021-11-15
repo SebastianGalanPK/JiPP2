@@ -26,7 +26,6 @@
 				<Compiler>
 					<Add directory="D:/Lekcje/JiPP2/GitHub/JiPP2/Lab5/Zad1/include"/>
 					<Add directory="C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include"/>
-					<Add directory="C:\Program Files (x86)\Windows Kits\NETFXSDK\4.8\include\um"/>
 					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\ucrt"/>
 					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\shared"/>
 					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um"/>
@@ -49,7 +48,6 @@
 				<Compiler>
 					<Add directory="D:/Lekcje/JiPP2/GitHub/JiPP2/Lab5/Zad1/include"/>
 					<Add directory="C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include"/>
-					<Add directory="C:\Program Files (x86)\Windows Kits\NETFXSDK\4.8\include\um"/>
 					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\ucrt"/>
 					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\shared"/>
 					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um"/>

@@ -6,5 +6,5 @@ CXX_DEFINES =
 
 CXX_INCLUDES = -ID:\Lekcje\JiPP2\GitHub\JiPP2\Lab5\Zad1\include
 
-CXX_FLAGS = /DWIN32 /D_WINDOWS /W3 /GR /EHsc /MDd /Zi /Ob0 /Od /RTC1 -MDd
+CXX_FLAGS = /DWIN32 /D_WINDOWS /GR /EHsc /Zi /Ob0 /Od /RTC1 -MDd
 

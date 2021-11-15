@@ -8,6 +8,9 @@ using namespace std;
 
 class Pojazd{
 private:
+    static string latestVersion;
+    string currentVersion = "v1.0";
+
     string numerRejestracyjny;
     string nazwa;
     int iloscMiejsc;
@@ -60,6 +63,21 @@ public:
         pasazerowie[numerMiejsca-1]=imieNazwisko;
     }
 
+    void wypiszWersje(){
+        cout<<"Obecna wersja: "<<currentVersion<<endl;
+        cout<<"Najnowsza wersja: "<<latestVersion<<endl;
+    }
+
+    void aktualizujWersje(){
+        cout<<"Aktualizowanie wersji!"<<endl;
+        currentVersion = latestVersion;
+    }
+
+    static void opublikujNoweOprogramowanie(string wersja){
+        cout<<"Publikowanie nowej wersji!"<<endl;
+        latestVersion = wersja;
+    }
+
     string getNumerRejestracyjny(){
         return numerRejestracyjny;
     }
@@ -84,6 +102,8 @@ public:
 
 };
 
+string Pojazd::latestVersion = "v1.5";
+
 int main(){
     Pojazd p1("WFW2421", "WDWD", 4, "Ford", "Kombi");
 
@@ -99,6 +119,12 @@ int main(){
     p3.setNumerRejestracyjny("S42241");
     p3.wypiszDane();
 
+    p1.wypiszWersje();
+    p1.aktualizujWersje();
+    p1.wypiszWersje();
+
+    Pojazd::opublikujNoweOprogramowanie("v2.0");
+    p1.wypiszWersje();
     return 0;
 }
 

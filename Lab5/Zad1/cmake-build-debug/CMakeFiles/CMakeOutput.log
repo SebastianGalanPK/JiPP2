@@ -6,11 +6,11 @@ Id flags:
 
 The output was:
 0
-Microsoft (R) Kompilator optymalizujący C/C++, wersja 19.29.30136 dla architektury x86
+Microsoft (R) Kompilator optymalizujący C/C++, wersja 19.29.30137 dla architektury x86
 Copyright (C) Microsoft Corporation. Wszystkie prawa zastrzeżone.
 
 CMakeCCompilerId.c
-Microsoft (R) Incremental Linker Version 14.29.30136.0
+Microsoft (R) Incremental Linker Version 14.29.30137.0
 Copyright (C) Microsoft Corporation.  All rights reserved.
 
 /out:CMakeCCompilerId.exe 
@@ -30,11 +30,11 @@ Id flags:
 
 The output was:
 0
-Microsoft (R) Kompilator optymalizujący C/C++, wersja 19.29.30136 dla architektury x86
+Microsoft (R) Kompilator optymalizujący C/C++, wersja 19.29.30137 dla architektury x86
 Copyright (C) Microsoft Corporation. Wszystkie prawa zastrzeżone.
 
 CMakeCXXCompilerId.cpp
-Microsoft (R) Incremental Linker Version 14.29.30136.0
+Microsoft (R) Incremental Linker Version 14.29.30137.0
 Copyright (C) Microsoft Corporation.  All rights reserved.
 
 /out:CMakeCXXCompilerId.exe 
@@ -50,22 +50,22 @@ The CXX compiler identification is MSVC, found in "D:/Lekcje/JiPP2/GitHub/JiPP2/
 Detecting C compiler ABI info compiled with the following output:
 Change Dir: D:/Lekcje/JiPP2/GitHub/JiPP2/Lab5/Zad1/cmake-build-debug/CMakeFiles/CMakeTmp
 
-Run Build Command(s):nmake -f Makefile /nologo cmTC_d1103\fast && 	"C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\bin\HostX86\x86\nmake.exe"  -f CMakeFiles\cmTC_d1103.dir\build.make /nologo -L                  CMakeFiles\cmTC_d1103.dir\build
-Building C object CMakeFiles/cmTC_d1103.dir/CMakeCCompilerABI.c.obj
-	"D:\CLion 2021.2.3\bin\cmake\win\bin\cmake.exe" -E cmake_cl_compile_depends --dep-file=CMakeFiles\cmTC_d1103.dir\CMakeCCompilerABI.c.obj.d --working-dir=D:\Lekcje\JiPP2\GitHub\JiPP2\Lab5\Zad1\cmake-build-debug\CMakeFiles\CMakeTmp --filter-prefix="" -- C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1429~1.301\bin\Hostx86\x86\cl.exe @C:\Users\SEBAST~1\AppData\Local\Temp\nm27B9.tmp
-Linking C executable cmTC_d1103.exe
-	"D:\CLion 2021.2.3\bin\cmake\win\bin\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\cmTC_d1103.dir --rc=C:\PROGRA~2\WI3CF2~1\10\bin\100162~1.0\x86\rc.exe --mt=C:\PROGRA~2\WI3CF2~1\10\bin\100162~1.0\x86\mt.exe --manifests -- C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1429~1.301\bin\Hostx86\x86\link.exe /nologo @CMakeFiles\cmTC_d1103.dir\objects1.rsp @C:\Users\SEBAST~1\AppData\Local\Temp\nm2857.tmp
+Run Build Command(s):nmake -f Makefile /nologo cmTC_33803\fast && 	"C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\bin\HostX86\x86\nmake.exe"  -f CMakeFiles\cmTC_33803.dir\build.make /nologo -L                  CMakeFiles\cmTC_33803.dir\build
+Building C object CMakeFiles/cmTC_33803.dir/CMakeCCompilerABI.c.obj
+	"D:\CLion 2021.2.3\bin\cmake\win\bin\cmake.exe" -E cmake_cl_compile_depends --dep-file=CMakeFiles\cmTC_33803.dir\CMakeCCompilerABI.c.obj.d --working-dir=D:\Lekcje\JiPP2\GitHub\JiPP2\Lab5\Zad1\cmake-build-debug\CMakeFiles\CMakeTmp --filter-prefix="" -- C:\PROGRA~2\MICROS~3\2019\COMMUN~1\VC\Tools\MSVC\1429~1.301\bin\Hostx86\x86\cl.exe @C:\Users\SEBAST~1\AppData\Local\Temp\nmDCAC.tmp
+Linking C executable cmTC_33803.exe
+	"D:\CLion 2021.2.3\bin\cmake\win\bin\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\cmTC_33803.dir --rc=C:\PROGRA~2\WI3CF2~1\10\bin\100162~1.0\x86\rc.exe --mt=C:\PROGRA~2\WI3CF2~1\10\bin\100162~1.0\x86\mt.exe --manifests -- C:\PROGRA~2\MICROS~3\2019\COMMUN~1\VC\Tools\MSVC\1429~1.301\bin\Hostx86\x86\link.exe /nologo @CMakeFiles\cmTC_33803.dir\objects1.rsp @C:\Users\SEBAST~1\AppData\Local\Temp\nmDEB0.tmp
 
 
 
 Detecting CXX compiler ABI info compiled with the following output:
 Change Dir: D:/Lekcje/JiPP2/GitHub/JiPP2/Lab5/Zad1/cmake-build-debug/CMakeFiles/CMakeTmp
 
-Run Build Command(s):nmake -f Makefile /nologo cmTC_97c41\fast && 	"C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\bin\HostX86\x86\nmake.exe"  -f CMakeFiles\cmTC_97c41.dir\build.make /nologo -L                  CMakeFiles\cmTC_97c41.dir\build
-Building CXX object CMakeFiles/cmTC_97c41.dir/CMakeCXXCompilerABI.cpp.obj
-	"D:\CLion 2021.2.3\bin\cmake\win\bin\cmake.exe" -E cmake_cl_compile_depends --dep-file=CMakeFiles\cmTC_97c41.dir\CMakeCXXCompilerABI.cpp.obj.d --working-dir=D:\Lekcje\JiPP2\GitHub\JiPP2\Lab5\Zad1\cmake-build-debug\CMakeFiles\CMakeTmp --filter-prefix="" -- C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1429~1.301\bin\Hostx86\x86\cl.exe @C:\Users\SEBAST~1\AppData\Local\Temp\nm2AC7.tmp
-Linking CXX executable cmTC_97c41.exe
-	"D:\CLion 2021.2.3\bin\cmake\win\bin\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\cmTC_97c41.dir --rc=C:\PROGRA~2\WI3CF2~1\10\bin\100162~1.0\x86\rc.exe --mt=C:\PROGRA~2\WI3CF2~1\10\bin\100162~1.0\x86\mt.exe --manifests -- C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1429~1.301\bin\Hostx86\x86\link.exe /nologo @CMakeFiles\cmTC_97c41.dir\objects1.rsp @C:\Users\SEBAST~1\AppData\Local\Temp\nm2BD1.tmp
+Run Build Command(s):nmake -f Makefile /nologo cmTC_c275d\fast && 	"C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\bin\HostX86\x86\nmake.exe"  -f CMakeFiles\cmTC_c275d.dir\build.make /nologo -L                  CMakeFiles\cmTC_c275d.dir\build
+Building CXX object CMakeFiles/cmTC_c275d.dir/CMakeCXXCompilerABI.cpp.obj
+	"D:\CLion 2021.2.3\bin\cmake\win\bin\cmake.exe" -E cmake_cl_compile_depends --dep-file=CMakeFiles\cmTC_c275d.dir\CMakeCXXCompilerABI.cpp.obj.d --working-dir=D:\Lekcje\JiPP2\GitHub\JiPP2\Lab5\Zad1\cmake-build-debug\CMakeFiles\CMakeTmp --filter-prefix="" -- C:\PROGRA~2\MICROS~3\2019\COMMUN~1\VC\Tools\MSVC\1429~1.301\bin\Hostx86\x86\cl.exe @C:\Users\SEBAST~1\AppData\Local\Temp\nmE334.tmp
+Linking CXX executable cmTC_c275d.exe
+	"D:\CLion 2021.2.3\bin\cmake\win\bin\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\cmTC_c275d.dir --rc=C:\PROGRA~2\WI3CF2~1\10\bin\100162~1.0\x86\rc.exe --mt=C:\PROGRA~2\WI3CF2~1\10\bin\100162~1.0\x86\mt.exe --manifests -- C:\PROGRA~2\MICROS~3\2019\COMMUN~1\VC\Tools\MSVC\1429~1.301\bin\Hostx86\x86\link.exe /nologo @CMakeFiles\cmTC_c275d.dir\objects1.rsp @C:\Users\SEBAST~1\AppData\Local\Temp\nmE41F.tmp
 
 
 
